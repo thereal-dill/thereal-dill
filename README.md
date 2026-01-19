@@ -20,6 +20,10 @@ Hello! I am a college student studying Computer Science at Georgia State Univers
 - GitHub Repo: <a href="https://github.com/thereal-dill/marta_app">Marta Train Application</a>
 - Demo: <a href="https://marta-app.onrender.com/">Link to live Demo</a>
 
+### Detection API
+- Description:  
+- GitHub Repo: <a href="https://github.com/thereal-dill/API-Detection">Security Detection API</a>
+
 ### Labs On TryHackMe
 - Description: It's an online platform that's used for learning cybersecurity concepts. It uses hands-on exercises and labs, teaching a variety of topics. 
 - TryHackMe Profile: <a href="https://tryhackme.com/p/C0ntain3r">Link to profile</a>
